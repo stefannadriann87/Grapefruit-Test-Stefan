@@ -1,0 +1,31 @@
+/*** Media Queries */
+$breakpoints: (
+ 
+  desktop: '(max-width: 1200px)',
+
+  tablet: '(max-width: 991px)',
+
+  mobile: '(max-width: 767px)'
+);
+
+/*** Fonts */
+// Montserrat
+$montserrat-regular:'MontserratRegular';
+$montserrat-bold:'MontserratBold';
+
+
+// Font Awesome
+$font-awesome: 'FontAwesome';
+
+/*** Colors */
+$black: #000;
+$white: #fff;
+$orange: #f96332;
+$orangePopup: #ec5e2f; 
+$yellow: #ffb236;
+$yellowLight: #ffd99b;
+$grey: #cacaca;
+$red: #ff3636;
+$green: #63da38;
+$lightGgrey: #f8f8f8;
+

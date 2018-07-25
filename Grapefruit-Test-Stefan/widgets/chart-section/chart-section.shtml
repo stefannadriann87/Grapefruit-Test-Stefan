@@ -1,0 +1,65 @@
+<!--chart widget -->
+<section class="chart-section">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 col-md-4 col-lg-3 tabs-chart">
+					<div class="row tab display-flex align-items-center ">
+						<div class="col-xs-12 col-md-6">
+							<p>NASDAQ</p><span>5,055.55</span>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<p class="procent red">-0.85%</p><a href="#">Details</a>
+						</div>
+					</div>
+					<div class="row tab display-flex align-items-center">
+						<div class="col-xs-12 col-md-6">
+							<p>APPL</p><span>126.56</span>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<p class="procent">+0.51%</p><a href="#">Details</a>
+						</div>
+					</div>
+					<div class="row tab display-flex align-items-center hidden-xs active">
+						<div class="col-xs-12 col-md-6">
+							<p>DOWN J</p><span>19,926.02</span>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<p class="procent red">-0.34%</p>
+						</div>
+					</div>
+					<div class="row tab display-flex align-items-center hidden-xs">
+						<div class="col-xs-12 col-md-6">
+							<p>GOOG</p><span>534.53</span>
+						</div>
+						<div class="col-xs-12 col-md-6">
+							<p class="procent">+0.70%</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-8 col-lg-9 chart">
+					<div class="row">
+						<div class="col-xs-12 col-sm-5 col-lg-4">
+							<p class="name">NASDAQ: AAPL</p>
+							<p class="number">127.33</p>
+							<p class="date">Oct 12 2:16 PM EDT</p>
+						</div>
+						<div class="col-xs-12 col-sm-7 col-lg-6">
+							<ul>
+								<li>Low <span>126.88</span></li>
+								<li>High <span>127.61</span></li>
+								<li>Open <span>127.48</span></li>
+								<li>Market cap <span>733.34B</span></li>
+								<li>Dividend yield <span>1.63%</span></li>
+								<li>P/E ratio (ttm) <span>15.73</span></li>
+							</ul>
+						</div>
+						<div class="col-xs-12 col-sm-12 col-lg-2">
+							<a class="age" href="#"><img src="resources/images/graph-ico.png"> 1 year</a>
+						</div>
+					</div>
+					<div id="chart" style="height: 300px; width: 100%;"></div>
+				</div>
+			</div>
+		</div>
+</section>
+<!--end chart widget -->

@@ -1,0 +1,2412 @@
+/*** Media Queries */
+/*** Fonts */
+/*** Colors */
+/*
+ * Font face mixin
+ */
+/**
+ * Media Queries
+ */
+/* line 45, ../sass/_mixin.scss */
+.margin-top-1 {
+  margin-top: 1rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-2 {
+  margin-top: 2rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-3 {
+  margin-top: 3rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-4 {
+  margin-top: 4rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-5 {
+  margin-top: 5rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-6 {
+  margin-top: 6rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-7 {
+  margin-top: 7rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-8 {
+  margin-top: 8rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-9 {
+  margin-top: 9rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-10 {
+  margin-top: 10rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-11 {
+  margin-top: 11rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-12 {
+  margin-top: 12rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-13 {
+  margin-top: 13rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-14 {
+  margin-top: 14rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-15 {
+  margin-top: 15rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-16 {
+  margin-top: 16rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-17 {
+  margin-top: 17rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-18 {
+  margin-top: 18rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-19 {
+  margin-top: 19rem;
+}
+
+/* line 45, ../sass/_mixin.scss */
+.margin-top-20 {
+  margin-top: 20rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-1 {
+  margin-bottom: 1rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-2 {
+  margin-bottom: 2rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-3 {
+  margin-bottom: 3rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-4 {
+  margin-bottom: 4rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-5 {
+  margin-bottom: 5rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-6 {
+  margin-bottom: 6rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-7 {
+  margin-bottom: 7rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-8 {
+  margin-bottom: 8rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-9 {
+  margin-bottom: 9rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-10 {
+  margin-bottom: 10rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-11 {
+  margin-bottom: 11rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-12 {
+  margin-bottom: 12rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-13 {
+  margin-bottom: 13rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-14 {
+  margin-bottom: 14rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-15 {
+  margin-bottom: 15rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-16 {
+  margin-bottom: 16rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-17 {
+  margin-bottom: 17rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-18 {
+  margin-bottom: 18rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-19 {
+  margin-bottom: 19rem;
+}
+
+/* line 51, ../sass/_mixin.scss */
+.margin-bottom-20 {
+  margin-bottom: 20rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-1 {
+  margin-left: 1rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-2 {
+  margin-left: 2rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-3 {
+  margin-left: 3rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-4 {
+  margin-left: 4rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-5 {
+  margin-left: 5rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-6 {
+  margin-left: 6rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-7 {
+  margin-left: 7rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-8 {
+  margin-left: 8rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-9 {
+  margin-left: 9rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-10 {
+  margin-left: 10rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-11 {
+  margin-left: 11rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-12 {
+  margin-left: 12rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-13 {
+  margin-left: 13rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-14 {
+  margin-left: 14rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-15 {
+  margin-left: 15rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-16 {
+  margin-left: 16rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-17 {
+  margin-left: 17rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-18 {
+  margin-left: 18rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-19 {
+  margin-left: 19rem;
+}
+
+/* line 57, ../sass/_mixin.scss */
+.margin-left-20 {
+  margin-left: 20rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-1 {
+  margin-right: 1rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-2 {
+  margin-right: 2rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-3 {
+  margin-right: 3rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-4 {
+  margin-right: 4rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-5 {
+  margin-right: 5rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-6 {
+  margin-right: 6rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-7 {
+  margin-right: 7rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-8 {
+  margin-right: 8rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-9 {
+  margin-right: 9rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-10 {
+  margin-right: 10rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-11 {
+  margin-right: 11rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-12 {
+  margin-right: 12rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-13 {
+  margin-right: 13rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-14 {
+  margin-right: 14rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-15 {
+  margin-right: 15rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-16 {
+  margin-right: 16rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-17 {
+  margin-right: 17rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-18 {
+  margin-right: 18rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-19 {
+  margin-right: 19rem;
+}
+
+/* line 63, ../sass/_mixin.scss */
+.margin-right-20 {
+  margin-right: 20rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-1 {
+  padding-top: 1rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-2 {
+  padding-top: 2rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-3 {
+  padding-top: 3rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-4 {
+  padding-top: 4rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-5 {
+  padding-top: 5rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-6 {
+  padding-top: 6rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-7 {
+  padding-top: 7rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-8 {
+  padding-top: 8rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-9 {
+  padding-top: 9rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-10 {
+  padding-top: 10rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-11 {
+  padding-top: 11rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-12 {
+  padding-top: 12rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-13 {
+  padding-top: 13rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-14 {
+  padding-top: 14rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-15 {
+  padding-top: 15rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-16 {
+  padding-top: 16rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-17 {
+  padding-top: 17rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-18 {
+  padding-top: 18rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-19 {
+  padding-top: 19rem;
+}
+
+/* line 84, ../sass/_mixin.scss */
+.padding-top-20 {
+  padding-top: 20rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-1 {
+  padding-bottom: 1rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-2 {
+  padding-bottom: 2rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-3 {
+  padding-bottom: 3rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-4 {
+  padding-bottom: 4rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-5 {
+  padding-bottom: 5rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-6 {
+  padding-bottom: 6rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-7 {
+  padding-bottom: 7rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-8 {
+  padding-bottom: 8rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-9 {
+  padding-bottom: 9rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-10 {
+  padding-bottom: 10rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-11 {
+  padding-bottom: 11rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-12 {
+  padding-bottom: 12rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-13 {
+  padding-bottom: 13rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-14 {
+  padding-bottom: 14rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-15 {
+  padding-bottom: 15rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-16 {
+  padding-bottom: 16rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-17 {
+  padding-bottom: 17rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-18 {
+  padding-bottom: 18rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-19 {
+  padding-bottom: 19rem;
+}
+
+/* line 90, ../sass/_mixin.scss */
+.padding-bottom-20 {
+  padding-bottom: 20rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-1 {
+  padding-left: 1rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-2 {
+  padding-left: 2rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-3 {
+  padding-left: 3rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-4 {
+  padding-left: 4rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-5 {
+  padding-left: 5rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-6 {
+  padding-left: 6rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-7 {
+  padding-left: 7rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-8 {
+  padding-left: 8rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-9 {
+  padding-left: 9rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-10 {
+  padding-left: 10rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-11 {
+  padding-left: 11rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-12 {
+  padding-left: 12rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-13 {
+  padding-left: 13rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-14 {
+  padding-left: 14rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-15 {
+  padding-left: 15rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-16 {
+  padding-left: 16rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-17 {
+  padding-left: 17rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-18 {
+  padding-left: 18rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-19 {
+  padding-left: 19rem;
+}
+
+/* line 96, ../sass/_mixin.scss */
+.padding-left-20 {
+  padding-left: 20rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-1 {
+  padding-right: 1rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-2 {
+  padding-right: 2rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-3 {
+  padding-right: 3rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-4 {
+  padding-right: 4rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-5 {
+  padding-right: 5rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-6 {
+  padding-right: 6rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-7 {
+  padding-right: 7rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-8 {
+  padding-right: 8rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-9 {
+  padding-right: 9rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-10 {
+  padding-right: 10rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-11 {
+  padding-right: 11rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-12 {
+  padding-right: 12rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-13 {
+  padding-right: 13rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-14 {
+  padding-right: 14rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-15 {
+  padding-right: 15rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-16 {
+  padding-right: 16rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-17 {
+  padding-right: 17rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-18 {
+  padding-right: 18rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-19 {
+  padding-right: 19rem;
+}
+
+/* line 110, ../sass/_mixin.scss */
+.padding-right-20 {
+  padding-right: 20rem;
+}
+
+@font-face {
+  font-family: "MontserratRegular";
+  src: url("../fonts/montserrat-regular-webfont.eot");
+  src: url("../fonts/montserrat-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat-regular-webfont.woff") format("woff"), url("../fonts/montserrat-regular-webfont.ttf") format("truetype"), url("../fonts/montserrat-regular-webfont.svg#MontserratRegular") format("svg");
+  font-weight: "normal";
+  font-style: "normal";
+}
+@font-face {
+  font-family: "MontserratBold";
+  src: url("../fonts/montserrat-bold-webfont.eot");
+  src: url("../fonts/montserrat-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat-bold-webfont.woff") format("woff"), url("../fonts/montserrat-bold-webfont.ttf") format("truetype"), url("../fonts/montserrat-bold-webfont.svg#MontserratBold") format("svg");
+  font-weight: "normal";
+  font-style: "normal";
+}
+@font-face {
+  font-family: "FontAwesome";
+  src: url("../fonts/font-awseme/fontawesome-webfont.eot");
+  src: url("../fonts/font-awseme/fontawesome-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/font-awseme/fontawesome-webfont.woff") format("woff"), url("../fonts/font-awseme/fontawesome-webfont.ttf") format("truetype"), url("../fonts/font-awseme/fontawesome-webfont.svg#FontAwesome") format("svg");
+  font-weight: "normal";
+  font-style: "normal";
+}
+/* line 13, ../sass/_fonts.scss */
+.font-10 {
+  font-size: 1rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-12 {
+  font-size: 1.2rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-13 {
+  font-size: 1.3rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-14 {
+  font-size: 1.4rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-16 {
+  font-size: 1.6rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-18 {
+  font-size: 1.8rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-20 {
+  font-size: 2rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-22 {
+  font-size: 2.2rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-24 {
+  font-size: 2.4rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-26 {
+  font-size: 2.6rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-28 {
+  font-size: 2.8rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-30 {
+  font-size: 3rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-32 {
+  font-size: 3.2rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-36 {
+  font-size: 3.6rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-38 {
+  font-size: 3.8rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-48 {
+  font-size: 4.8rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-49 {
+  font-size: 4.9rem;
+}
+
+/* line 13, ../sass/_fonts.scss */
+.font-65 {
+  font-size: 6.5rem;
+}
+
+/* line 2, ../sass/_flex.scss */
+.display-flex {
+  display: flex;
+}
+
+/* line 6, ../sass/_flex.scss */
+.display-inline-flex {
+  display: inline-flex;
+}
+
+/* line 10, ../sass/_flex.scss */
+.layout-row {
+  display: flex;
+  flex-direction: row;
+}
+
+/* line 15, ../sass/_flex.scss */
+.layout-column {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 991px) {
+  /* line 26, ../sass/_flex.scss */
+  .layout-column--sm {
+    flex-direction: column;
+  }
+}
+
+/* line 32, ../sass/_flex.scss */
+.align-items-start {
+  align-items: flex-start;
+}
+
+/* line 36, ../sass/_flex.scss */
+.align-items-end {
+  align-items: flex-end;
+}
+
+/* line 40, ../sass/_flex.scss */
+.align-items-center {
+  align-items: center;
+}
+
+/* line 56, ../sass/_flex.scss */
+.align-items-stretch {
+  align-items: stretch;
+}
+
+/* line 60, ../sass/_flex.scss */
+.align-items-baseline {
+  align-items: baseline;
+}
+
+/* line 64, ../sass/_flex.scss */
+.align-self-center {
+  align-self: center;
+}
+
+/* line 68, ../sass/_flex.scss */
+.align-self-end {
+  align-self: center;
+}
+
+/* line 72, ../sass/_flex.scss */
+.justify-content-between {
+  justify-content: space-between;
+}
+
+/* line 76, ../sass/_flex.scss */
+.justify-content-center {
+  justify-content: center;
+}
+
+/* line 80, ../sass/_flex.scss */
+.justify-content-start {
+  justify-content: flex-start;
+}
+
+/* line 84, ../sass/_flex.scss */
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+/* line 88, ../sass/_flex.scss */
+.justify-content-around {
+  justify-content: space-around;
+}
+
+/* line 92, ../sass/_flex.scss */
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+/* line 96, ../sass/_flex.scss */
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+/* line 1, ../sass/_global.scss */
+body {
+  font-family: "MontserratRegular";
+  font-size: 62.5%;
+  height: 100%;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+@media (max-width: 1200px) {
+  /* line 1, ../sass/_global.scss */
+  body {
+    font-size: 55%;
+  }
+}
+
+/* line 15, ../sass/_global.scss */
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, input, textarea {
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 20, ../sass/_global.scss */
+input, input:focus, input:visited, input:hover, input:active, textarea, textarea:focus, textarea:visited, textarea:hover, textarea:active, select, select:focus, select:visited, select:hover, select:active, button {
+  border: none;
+  border-color: transparent;
+  box-shadow: none;
+  outline: none;
+  outline-offset: none;
+  outline-width: 0;
+  text-shadow: none;
+  -webkit-border-radius: 0;
+  -webkit-box-shadow: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* line 33, ../sass/_global.scss */
+iframe {
+  border: 0;
+}
+
+/* line 36, ../sass/_global.scss */
+a {
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -ms-transition: all .3s;
+  -moz-transition: all .3s;
+}
+/* line 41, ../sass/_global.scss */
+a:hover, a:focus, a:visited, a:active {
+  text-decoration: none;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+}
+
+/* line 49, ../sass/_global.scss */
+h1 {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 3.6rem;
+  line-height: 4.4rem;
+}
+
+/*.container {
+    width: 1400px;
+    @include respondto(desktop) {}
+}*/
+/* line 67, ../sass/_global.scss */
+.flexbox {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  -webkit-align-items: baseline;
+  -ms-flex-align: baseline;
+  align-items: baseline;
+}
+/* line 87, ../sass/_global.scss */
+.flexbox.row:before {
+  content: none;
+}
+
+/* line 92, ../sass/_global.scss */
+.left {
+  float: left;
+}
+
+/* line 95, ../sass/_global.scss */
+.right {
+  float: right;
+}
+
+/* line 98, ../sass/_global.scss */
+.absolute {
+  position: absolute;
+}
+
+/* line 101, ../sass/_global.scss */
+.relative {
+  position: relative;
+}
+
+/* line 104, ../sass/_global.scss */
+.display-block {
+  display: block;
+}
+
+/* line 107, ../sass/_global.scss */
+.display-inline-block {
+  display: inline-block;
+}
+
+/* line 110, ../sass/_global.scss */
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+/* line 113, ../sass/_global.scss */
+.text-left {
+  text-align: left;
+}
+
+/* line 116, ../sass/_global.scss */
+.text-right {
+  text-align: right;
+}
+
+/* line 119, ../sass/_global.scss */
+.text-center {
+  text-align: center;
+}
+
+/* line 132, ../sass/_global.scss */
+.full-width {
+  width: 100%;
+}
+
+/* line 135, ../sass/_global.scss */
+.full-height {
+  height: 100%;
+}
+
+/* line 138, ../sass/_global.scss */
+.with-shadow {
+  box-shadow: 3px 3px 2px #000;
+}
+
+/* line 141, ../sass/_global.scss */
+.hidden-y {
+  overflow-y: hidden;
+}
+
+/* line 144, ../sass/_global.scss */
+.no-transition {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+
+/* line 150, ../sass/_global.scss */
+.no-margin {
+  margin: 0;
+}
+
+/* line 158, ../sass/_global.scss */
+.white-overlay {
+  background-color: rgba(255, 255, 255, 0.4);
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+/* line 165, ../sass/_global.scss */
+.red-bk {
+  background-color: palette(red);
+}
+
+/* line 168, ../sass/_global.scss */
+.white-bk {
+  background-color: palette(white);
+}
+
+/* line 171, ../sass/_global.scss */
+.border-bottom-red--2 {
+  border-bottom: 2px solid palette(red);
+}
+
+/* line 179, ../sass/_global.scss */
+.object-fit-cover {
+  object-fit: cover;
+}
+
+/* line 182, ../sass/_global.scss */
+.object-position-center {
+  object-position: center;
+}
+
+/* line 185, ../sass/_global.scss */
+.background-position {
+  height: 100% !important;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+/* line 193, ../sass/_global.scss */
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+
+/* line 196, ../sass/_global.scss */
+.text-underline {
+  text-decoration: underline;
+}
+
+/* line 199, ../sass/_global.scss */
+.font-bold {
+  font-weight: bold;
+}
+
+/* header */
+/* line 4, ../sass/main.scss */
+header {
+  background: #f96332;
+  padding: 1.5rem 0;
+  overflow: hidden;
+}
+/* line 8, ../sass/main.scss */
+header a {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 1rem;
+  display: inline-block;
+  line-height: 2rem;
+  margin: 0 1.4rem;
+}
+@media (max-width: 767px) {
+  /* line 8, ../sass/main.scss */
+  header a {
+    margin: 0 1rem;
+  }
+}
+/* line 18, ../sass/main.scss */
+header a.log-in {
+  border-radius: 50%;
+  height: 3rem;
+  overflow: hidden;
+  vertical-align: middle;
+  width: 3rem;
+}
+/* line 24, ../sass/main.scss */
+header a.log-in img {
+  width: 100%;
+  height: 100%;
+}
+@media (max-width: 991px) {
+  /* line 29, ../sass/main.scss */
+  header a.text-uppercase {
+    display: none;
+  }
+}
+@media (max-width: 991px) {
+  /* line 35, ../sass/main.scss */
+  header .sign-up {
+    display: none;
+  }
+}
+
+/* line 41, ../sass/main.scss */
+.mobile-widgets {
+  background: #f96332;
+  border-top: 1px solid #fff;
+  display: none;
+  padding: 3.2rem 0;
+  text-align: center;
+}
+@media (max-width: 767px) {
+  /* line 41, ../sass/main.scss */
+  .mobile-widgets {
+    display: block;
+  }
+}
+/* line 50, ../sass/main.scss */
+.mobile-widgets a {
+  color: #fff;
+  display: block;
+  font-family: "MontserratBold";
+  font-size: 2rem;
+  line-height: 2.4rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* end  header */
+/* weather widget */
+/* line 65, ../sass/main.scss */
+.weather .box-left {
+  padding: 0;
+  background: url(../images/image-left.jpg) no-repeat center center;
+  background-size: cover;
+  height: calc(50vh);
+}
+@media (max-width: 991px) {
+  /* line 65, ../sass/main.scss */
+  .weather .box-left {
+    display: none;
+  }
+}
+/* line 73, ../sass/main.scss */
+.weather .box-left .box {
+  bottom: 0;
+  padding: 2.5rem 3.5rem;
+  width: 100%;
+}
+/* line 77, ../sass/main.scss */
+.weather .box-left .box p {
+  color: #fff;
+  display: inline-block;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  margin-right: 2rem;
+}
+/* line 84, ../sass/main.scss */
+.weather .box-left .box a {
+  color: #fff;
+  font-size: .9rem;
+  position: relative;
+}
+/* line 88, ../sass/main.scss */
+.weather .box-left .box a:before {
+  background: #fff;
+  bottom: -.6rem;
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 100%;
+}
+/* line 97, ../sass/main.scss */
+.weather .box-left .box img {
+  margin-right: 1rem;
+  vertical-align: bottom;
+}
+/* line 103, ../sass/main.scss */
+.weather .box-right {
+  background: #ffb236;
+  padding: 0;
+  height: calc(50vh);
+}
+@media (max-width: 767px) {
+  /* line 103, ../sass/main.scss */
+  .weather .box-right {
+    background: url(../images/widget-bg.png) no-repeat bottom center #ffb236;
+    background-size: contain;
+    height: calc(40vh);
+    padding: 0 1.5rem;
+  }
+}
+/* line 113, ../sass/main.scss */
+.weather .box-right .box {
+  height: 100%;
+  padding: 4rem 3.5rem 3rem;
+  position: relative;
+}
+@media (max-width: 767px) {
+  /* line 113, ../sass/main.scss */
+  .weather .box-right .box {
+    padding: 4rem .5rem 3rem;
+  }
+}
+@media (max-width: 767px) {
+  /* line 120, ../sass/main.scss */
+  .weather .box-right .box img {
+    width: 4.8rem;
+    margin-bottom: 1rem;
+  }
+}
+/* line 126, ../sass/main.scss */
+.weather .box-right .box .weather-details {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 2.6rem;
+  line-height: 3rem;
+  padding-bottom: .5rem;
+}
+@media (max-width: 767px) {
+  /* line 126, ../sass/main.scss */
+  .weather .box-right .box .weather-details {
+    font-size: 1.3rem;
+    line-height: 2rem;
+    padding-bottom: .5rem;
+  }
+}
+/* line 138, ../sass/main.scss */
+.weather .box-right .box .city {
+  color: #ffd99b;
+  font-family: "MontserratBold";
+  font-size: 2rem;
+  line-height: 3rem;
+}
+@media (max-width: 767px) {
+  /* line 138, ../sass/main.scss */
+  .weather .box-right .box .city {
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+  }
+}
+/* line 149, ../sass/main.scss */
+.weather .box-right ul {
+  text-align: right;
+  margin-bottom: 4rem;
+}
+@media (max-width: 767px) {
+  /* line 149, ../sass/main.scss */
+  .weather .box-right ul {
+    display: none;
+  }
+}
+/* line 155, ../sass/main.scss */
+.weather .box-right ul li {
+  display: inline-block;
+  margin-left: 3rem;
+}
+@media (max-width: 1200px) {
+  /* line 155, ../sass/main.scss */
+  .weather .box-right ul li {
+    margin-left: 1.5rem;
+  }
+}
+/* line 161, ../sass/main.scss */
+.weather .box-right ul li a {
+  color: #ffd99b;
+  font-family: "MontserratBold";
+  font-size: 1.1rem;
+  position: relative;
+  text-transform: uppercase;
+}
+/* line 167, ../sass/main.scss */
+.weather .box-right ul li a:hover {
+  color: #fff;
+}
+/* line 169, ../sass/main.scss */
+.weather .box-right ul li a:hover:before {
+  background: #fff;
+  bottom: -.6rem;
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 100%;
+}
+/* line 178, ../sass/main.scss */
+.weather .box-right ul li a.active {
+  color: #fff;
+}
+/* line 180, ../sass/main.scss */
+.weather .box-right ul li a.active:before {
+  background: #fff;
+  bottom: -.6rem;
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 100%;
+}
+/* line 192, ../sass/main.scss */
+.weather .box-right .temp {
+  color: #fff;
+  font-size: 17rem;
+  line-height: 17rem;
+  font-family: "MontserratBold";
+}
+/* line 197, ../sass/main.scss */
+.weather .box-right .temp sup {
+  font-size: 6rem;
+  line-height: 12rem;
+  float: right;
+}
+@media (max-width: 1200px) {
+  /* line 197, ../sass/main.scss */
+  .weather .box-right .temp sup {
+    font-size: 6rem;
+    line-height: 7rem;
+  }
+}
+@media (max-width: 767px) {
+  /* line 197, ../sass/main.scss */
+  .weather .box-right .temp sup {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+}
+@media (max-width: 1200px) {
+  /* line 192, ../sass/main.scss */
+  .weather .box-right .temp {
+    font-size: 12rem;
+    line-height: 7rem;
+  }
+}
+@media (max-width: 767px) {
+  /* line 192, ../sass/main.scss */
+  .weather .box-right .temp {
+    font-size: 10rem;
+    line-height: 7rem;
+  }
+}
+/* line 219, ../sass/main.scss */
+.weather .box-right .owl-carousel {
+  bottom: 3rem;
+  cursor: pointer;
+  left: 0;
+}
+@media (max-width: 767px) {
+  /* line 219, ../sass/main.scss */
+  .weather .box-right .owl-carousel {
+    bottom: 1rem;
+    padding: 0;
+  }
+}
+/* line 227, ../sass/main.scss */
+.weather .box-right .owl-carousel .item {
+  text-align: center;
+}
+/* line 229, ../sass/main.scss */
+.weather .box-right .owl-carousel .item p {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 2.6rem;
+  line-height: 4rem;
+  margin-right: -1.5rem;
+}
+/* line 235, ../sass/main.scss */
+.weather .box-right .owl-carousel .item p sup {
+  font-size: 1.5rem;
+  line-height: 3rem;
+  vertical-align: super;
+  left: -.6rem;
+  top: -.1rem;
+}
+/* line 243, ../sass/main.scss */
+.weather .box-right .owl-carousel .item span {
+  color: #ffd99b;
+  font-family: "MontserratBold";
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  text-transform: uppercase;
+}
+
+/* end weather widget */
+/*  chart widget */
+/* line 259, ../sass/main.scss */
+.chart-section .tabs-chart {
+  box-shadow: 7px 0 12px -2px #ddd;
+  border-right: 1px solid #fff;
+}
+@media (max-width: 991px) {
+  /* line 259, ../sass/main.scss */
+  .chart-section .tabs-chart {
+    box-shadow: none;
+    padding: 0;
+  }
+}
+/* line 268, ../sass/main.scss */
+.chart-section .tab {
+  cursor: pointer;
+  padding: 0 4.8rem;
+  position: relative;
+}
+@media (max-width: 991px) {
+  /* line 268, ../sass/main.scss */
+  .chart-section .tab {
+    float: left;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin: 0;
+    padding: 3rem 1.5rem;
+    width: 25%;
+  }
+}
+@media (max-width: 767px) {
+  /* line 268, ../sass/main.scss */
+  .chart-section .tab {
+    background-image: url(../images/graph-bg.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-right: 1px solid #ddd;
+    padding: 1.5rem;
+    width: 50%;
+  }
+}
+/* line 290, ../sass/main.scss */
+.chart-section .tab.active {
+  background: #f8f8f8;
+  outline: 1px solid white;
+}
+@media (max-width: 991px) {
+  /* line 290, ../sass/main.scss */
+  .chart-section .tab.active {
+    outline: none;
+  }
+}
+@media (max-width: 767px) {
+  /* line 290, ../sass/main.scss */
+  .chart-section .tab.active {
+    background-image: url(../images/graph-bg.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+/* line 302, ../sass/main.scss */
+.chart-section .tab.active:before {
+  content: none;
+}
+/* line 306, ../sass/main.scss */
+.chart-section .tab:hover {
+  background: #f8f8f8;
+  outline: 1px solid white;
+}
+@media (max-width: 991px) {
+  /* line 306, ../sass/main.scss */
+  .chart-section .tab:hover {
+    outline: none;
+  }
+}
+@media (max-width: 767px) {
+  /* line 306, ../sass/main.scss */
+  .chart-section .tab:hover {
+    background-image: url(../images/graph-bg.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+/* line 318, ../sass/main.scss */
+.chart-section .tab:hover:before {
+  content: none;
+}
+/* line 323, ../sass/main.scss */
+.chart-section .tab:last-child:before {
+  content: none;
+}
+/* line 327, ../sass/main.scss */
+.chart-section .tab:before {
+  background: #e7e7e7;
+  bottom: 0;
+  content: "";
+  height: .1rem;
+  margin: 0 auto;
+  position: absolute;
+  width: 80%;
+}
+@media (max-width: 991px) {
+  /* line 327, ../sass/main.scss */
+  .chart-section .tab:before {
+    content: none;
+  }
+}
+/* line 339, ../sass/main.scss */
+.chart-section .tab div {
+  padding: 4.5rem 0 3.5rem;
+}
+@media (max-width: 991px) {
+  /* line 339, ../sass/main.scss */
+  .chart-section .tab div {
+    padding: 0;
+  }
+}
+/* line 345, ../sass/main.scss */
+.chart-section .tab p {
+  color: #000;
+  font-family: "MontserratBold";
+  font-size: 2rem;
+  line-height: 3rem;
+  margin-bottom: .6rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  /* line 345, ../sass/main.scss */
+  .chart-section .tab p {
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  /* line 345, ../sass/main.scss */
+  .chart-section .tab p {
+    margin-bottom: 0;
+    text-align: left;
+  }
+}
+/* line 361, ../sass/main.scss */
+.chart-section .tab span {
+  color: #cacaca;
+  font-family: "MontserratBold";
+  font-size: 1.6rem;
+  line-height: 3rem;
+  text-align: left;
+}
+@media (max-width: 991px) {
+  /* line 361, ../sass/main.scss */
+  .chart-section .tab span {
+    display: block;
+    padding-bottom: 1rem;
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  /* line 361, ../sass/main.scss */
+  .chart-section .tab span {
+    text-align: left;
+    padding-bottom: 0;
+  }
+}
+/* line 377, ../sass/main.scss */
+.chart-section .tab .procent {
+  color: #63da38;
+  font-family: "MontserratBold";
+  font-size: 3rem;
+  line-height: 3rem;
+  text-align: right;
+}
+/* line 383, ../sass/main.scss */
+.chart-section .tab .procent.red {
+  color: #ff3636;
+}
+@media (max-width: 991px) {
+  /* line 377, ../sass/main.scss */
+  .chart-section .tab .procent {
+    text-align: center;
+  }
+}
+@media (max-width: 767px) {
+  /* line 377, ../sass/main.scss */
+  .chart-section .tab .procent {
+    text-align: left;
+    margin-bottom: 7rem;
+  }
+}
+/* line 394, ../sass/main.scss */
+.chart-section .tab a {
+  border: 1px solid #ddd;
+  border-radius: 3rem;
+  color: #f96332;
+  display: none;
+  font-family: "MontserratBold";
+  font-size: 1.1rem;
+  height: 3.4rem;
+  line-height: 3.4rem;
+  margin: 0 auto 1rem;
+  text-align: center;
+  width: 9rem;
+}
+@media (max-width: 767px) {
+  /* line 394, ../sass/main.scss */
+  .chart-section .tab a {
+    display: block;
+  }
+}
+/* line 411, ../sass/main.scss */
+.chart-section .chart {
+  padding: 5rem 3rem 4rem 4rem;
+}
+@media (max-width: 767px) {
+  /* line 411, ../sass/main.scss */
+  .chart-section .chart {
+    display: none;
+  }
+}
+/* line 416, ../sass/main.scss */
+.chart-section .chart .name {
+  color: #cacaca;
+  font-family: "MontserratBold";
+  font-size: 3rem;
+  line-height: 3rem;
+  padding-bottom: .5rem;
+  text-transform: uppercase;
+}
+/* line 424, ../sass/main.scss */
+.chart-section .chart .number {
+  color: #000;
+  font-family: "MontserratBold";
+  font-size: 8rem;
+  line-height: 9rem;
+}
+/* line 430, ../sass/main.scss */
+.chart-section .chart .date {
+  color: #cacaca;
+  font-size: 1.1rem;
+  line-height: 3rem;
+}
+/* line 435, ../sass/main.scss */
+.chart-section .chart ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+/* line 439, ../sass/main.scss */
+.chart-section .chart ul li {
+  color: #cacaca;
+  font-family: "MontserratBold";
+  font-size: 1.2rem;
+  line-height: 3rem;
+  list-style: none;
+  padding: 0 4rem;
+}
+@media (max-width: 1200px) {
+  /* line 439, ../sass/main.scss */
+  .chart-section .chart ul li {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 991px) {
+  /* line 439, ../sass/main.scss */
+  .chart-section .chart ul li {
+    padding: 0 2rem;
+  }
+}
+/* line 452, ../sass/main.scss */
+.chart-section .chart ul li span {
+  color: #000;
+  float: right;
+}
+/* line 458, ../sass/main.scss */
+.chart-section .chart .age {
+  border: 1px solid #ececec;
+  border-radius: 3rem;
+  color: #000;
+  display: block;
+  font-size: 1.1rem;
+  height: 3.6rem;
+  line-height: 3.6rem;
+  margin: 0 auto;
+  max-width: 10rem;
+  text-align: center;
+}
+@media (max-width: 1200px) {
+  /* line 458, ../sass/main.scss */
+  .chart-section .chart .age {
+    float: right;
+    margin: 0;
+  }
+}
+/* line 473, ../sass/main.scss */
+.chart-section .chart .age img {
+  vertical-align: unset;
+  margin-right: .4rem;
+}
+
+/* end chart widget */
+/* sign in widget */
+/* line 484, ../sass/main.scss */
+.active-sign-in {
+  padding-top: 6rem;
+}
+/* line 486, ../sass/main.scss */
+.active-sign-in .sign-in {
+  opacity: 1;
+  z-index: 99;
+  visibility: visible;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+}
+/* line 495, ../sass/main.scss */
+.active-sign-in header {
+  position: fixed;
+  width: 100%;
+  height: 6rem;
+  left: 0;
+  top: 0;
+  z-index: 9;
+}
+/* line 503, ../sass/main.scss */
+.active-sign-in .sign-up {
+  background: url(../images/close-ico.png) no-repeat center bottom;
+  height: 2.2rem;
+  transition: none;
+  vertical-align: middle;
+  width: 2.2rem;
+}
+/* line 509, ../sass/main.scss */
+.active-sign-in .sign-up img {
+  display: none;
+}
+
+/* line 514, ../sass/main.scss */
+.sign-in {
+  background: #d0481e;
+  background: -moz-linear-gradient(top, #d0481e 0%, #d0481e 0%, #f85032 13%, #00000c 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, #d0481e), color-stop(0%, #d0481e), color-stop(13%, #f85032), color-stop(100%, #00000c));
+  background: -webkit-linear-gradient(top, #d0481e 0%, #d0481e 0%, #f85032 13%, #00000c 100%);
+  background: -o-linear-gradient(top, #d0481e 0%, #d0481e 0%, #f85032 13%, #00000c 100%);
+  background: -ms-linear-gradient(top, #d0481e 0%, #d0481e 0%, #f85032 13%, #00000c 100%);
+  background: linear-gradient(to bottom, #d0481e 0%, #d0481e 0%, #f85032 13%, #00000c 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0481e', endColorstr='#00000c', GradientType=0);
+  height: calc(100vh - 6rem);
+  opacity: 0;
+  position: fixed;
+  top: 6rem;
+  visibility: hidden;
+  width: 100%;
+  z-index: -1;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+}
+/* line 534, ../sass/main.scss */
+.sign-in .container-fluid {
+  background: url(../images/sign-up-bg.png) no-repeat center bottom;
+  background-size: cover;
+  height: 100%;
+}
+/* line 539, ../sass/main.scss */
+.sign-in .step-box {
+  padding: 14rem 1.5rem 6rem;
+}
+/* line 542, ../sass/main.scss */
+.sign-in .box {
+  padding-bottom: 3rem;
+}
+/* line 545, ../sass/main.scss */
+.sign-in ul {
+  overflow: hidden;
+}
+/* line 547, ../sass/main.scss */
+.sign-in ul li {
+  color: #d9a191;
+  font-family: "MontserratBold";
+  font-size: 1.2rem;
+  float: left;
+  list-style-type: none;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  width: 33.33%;
+}
+/* line 557, ../sass/main.scss */
+.sign-in ul li.active {
+  color: #fff;
+}
+/* line 559, ../sass/main.scss */
+.sign-in ul li.active:before {
+  border: 1px solid #d9a191;
+  content: "";
+}
+/* line 564, ../sass/main.scss */
+.sign-in ul li span {
+  background: #fff;
+  border-radius: 50%;
+  height: .5rem;
+  left: 50%;
+  position: absolute;
+  top: 22%;
+  transform: translate(-50%, -50%);
+  width: .5rem;
+}
+/* line 575, ../sass/main.scss */
+.sign-in ul li:first-child:after {
+  content: none;
+}
+/* line 579, ../sass/main.scss */
+.sign-in ul li:before {
+  border-radius: 50%;
+  color: #fff;
+  content: "";
+  display: block;
+  height: 2.5rem;
+  line-height: 2.5rem;
+  margin: 0 auto 1.5rem;
+  padding: 1rem;
+  text-align: center;
+  width: 2.5rem;
+}
+/* line 591, ../sass/main.scss */
+.sign-in ul li:after {
+  background-color: #d9a191;
+  content: '';
+  height: .1rem;
+  left: -36%;
+  position: absolute;
+  top: 1.3rem;
+  width: 70%;
+  z-index: -1;
+}
+/* line 603, ../sass/main.scss */
+.sign-in h2 {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 4rem;
+  letter-spacing: .2rem;
+  line-height: 4rem;
+  padding-bottom: 11rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+/* line 613, ../sass/main.scss */
+.sign-in a {
+  color: #b4aeab;
+  display: block;
+  font-size: 1.1rem;
+  line-height: 3rem;
+  text-align: center;
+}
+/* line 620, ../sass/main.scss */
+.sign-in form {
+  max-width: 33rem;
+  margin: 0 auto;
+}
+/* line 623, ../sass/main.scss */
+.sign-in form .column {
+  margin-bottom: 2rem;
+  position: relative;
+}
+/* line 626, ../sass/main.scss */
+.sign-in form .column span {
+  left: 3rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+/* line 633, ../sass/main.scss */
+.sign-in form input {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3rem;
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 1.3rem;
+  height: 5.6rem;
+  line-height: 5.6rem;
+  padding: 0 2.4rem 0 6.5rem;
+  width: 100%;
+}
+/* line 643, ../sass/main.scss */
+.sign-in form input::-webkit-input-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 647, ../sass/main.scss */
+.sign-in form input::-moz-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 651, ../sass/main.scss */
+.sign-in form input:-ms-input-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 655, ../sass/main.scss */
+.sign-in form input:-moz-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 659, ../sass/main.scss */
+.sign-in form input:-webkit-autofill {
+  background: transparent !important;
+  color: #d2bbb3 !important;
+}
+/* line 663, ../sass/main.scss */
+.sign-in form input.error {
+  border: 1px solid #ff3636;
+}
+/* line 667, ../sass/main.scss */
+.sign-in form label {
+  display: none;
+}
+/* line 669, ../sass/main.scss */
+.sign-in form label.error {
+  bottom: -2.2rem;
+  color: #ff3636;
+  font-size: 1.3rem;
+  left: 0;
+  position: absolute;
+}
+/* line 677, ../sass/main.scss */
+.sign-in form button {
+  background: transparent;
+  border: 1px solid #988680;
+  border-radius: 3rem;
+  color: #fff;
+  font-size: 1.3rem;
+  height: 5.6rem;
+  line-height: 4.6rem;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+}
+/* line 692, ../sass/main.scss */
+.sign-in form button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* line 698, ../sass/main.scss */
+.active-body-log-in {
+  padding-top: 6rem;
+}
+/* line 700, ../sass/main.scss */
+.active-body-log-in header {
+  position: fixed;
+  width: 100%;
+  height: 6rem;
+  left: 0;
+  top: 0;
+  z-index: 9;
+}
+
+/* line 709, ../sass/main.scss */
+.user-login {
+  background: #ec5e2f;
+  box-shadow: 5px -15px 20px -5px #d7552b;
+  height: calc(100vh - 6rem);
+  padding: 6rem 13rem;
+  position: fixed;
+  right: -58rem;
+  width: 58rem;
+  z-index: 9;
+  top: 6rem;
+  transition: all .3s;
+  -webkit-transition: all .8s;
+  -moz-transition: all .8s;
+  -ms-transition: all .8s;
+}
+@media (max-width: 991px) {
+  /* line 709, ../sass/main.scss */
+  .user-login {
+    padding: 6rem 8rem;
+    right: -48rem;
+    width: 48rem;
+  }
+}
+@media (max-width: 767px) {
+  /* line 709, ../sass/main.scss */
+  .user-login {
+    padding: 4rem 3rem;
+    right: -36rem;
+    width: 36rem;
+  }
+}
+/* line 733, ../sass/main.scss */
+.user-login.active-log-in {
+  right: 0;
+}
+/* line 736, ../sass/main.scss */
+.user-login p {
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  padding-bottom: 2.5rem;
+  padding-top: 3rem;
+}
+/* line 744, ../sass/main.scss */
+.user-login ul {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+/* line 747, ../sass/main.scss */
+.user-login ul li {
+  background: #ee6e44;
+  border-radius: 50%;
+  display: inline-block;
+  height: 12rem;
+  margin: 0 -1rem;
+  overflow: hidden;
+  position: relative;
+  width: 12rem;
+}
+/* line 756, ../sass/main.scss */
+.user-login ul li:nth-child(2n) {
+  z-index: 9;
+}
+@media (max-width: 991px) {
+  /* line 747, ../sass/main.scss */
+  .user-login ul li {
+    height: 8rem;
+    width: 8rem;
+  }
+}
+/* line 763, ../sass/main.scss */
+.user-login ul li img {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+/* line 771, ../sass/main.scss */
+.user-login form {
+  margin-bottom: 6rem;
+}
+/* line 773, ../sass/main.scss */
+.user-login form .column {
+  margin-bottom: 2rem;
+  position: relative;
+}
+/* line 776, ../sass/main.scss */
+.user-login form .column span {
+  left: 3rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+/* line 783, ../sass/main.scss */
+.user-login form input {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3rem;
+  color: #fff;
+  font-family: "MontserratBold";
+  font-size: 1.3rem;
+  height: 5.6rem;
+  line-height: 5.6rem;
+  padding: 0 2.4rem 0 6.5rem;
+  width: 100%;
+}
+/* line 793, ../sass/main.scss */
+.user-login form input::-webkit-input-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 797, ../sass/main.scss */
+.user-login form input::-moz-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 801, ../sass/main.scss */
+.user-login form input:-ms-input-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 805, ../sass/main.scss */
+.user-login form input:-moz-placeholder {
+  color: #d2bbb3;
+  opacity: 1;
+}
+/* line 809, ../sass/main.scss */
+.user-login form input:-webkit-autofill {
+  background: transparent !important;
+  color: #d2bbb3 !important;
+}
+/* line 813, ../sass/main.scss */
+.user-login form input.error {
+  border: 1px solid #ff3636;
+}
+/* line 817, ../sass/main.scss */
+.user-login form label {
+  display: none;
+}
+/* line 819, ../sass/main.scss */
+.user-login form label.error {
+  bottom: -2.2rem;
+  color: #ff3636;
+  font-size: 1.3rem;
+  left: 0;
+  position: absolute;
+}
+/* line 828, ../sass/main.scss */
+.user-login .switch {
+  margin-bottom: 2rem;
+  overflow: hidden;
+  width: 100%;
+}
+/* line 832, ../sass/main.scss */
+.user-login .switch.inactive {
+  cursor: default;
+}
+/* line 834, ../sass/main.scss */
+.user-login .switch.inactive p {
+  color: #f7baa6;
+}
+/* line 837, ../sass/main.scss */
+.user-login .switch.inactive label {
+  cursor: default;
+  pointer-events: none;
+}
+/* line 842, ../sass/main.scss */
+.user-login .switch p {
+  font-size: 1.1rem;
+  float: left;
+  padding: 0;
+}
+/* line 847, ../sass/main.scss */
+.user-login .switch input {
+  display: none;
+}
+/* line 849, ../sass/main.scss */
+.user-login .switch input:checked + label span {
+  background: #fff;
+  transform: translateX(20px);
+}
+/* line 854, ../sass/main.scss */
+.user-login .switch label {
+  cursor: pointer;
+  display: block;
+  float: right;
+  height: 2rem;
+  position: relative;
+  transform: translate3d(0, 0, 0);
+  width: 4rem;
+}
+/* line 862, ../sass/main.scss */
+.user-login .switch label:before {
+  background: #d4542a;
+  border-radius: 2rem;
+  content: "";
+  display: block;
+  height: 2rem;
+  left: 0;
+  position: relative;
+  top: 0;
+  transition: background 0.2s ease;
+  width: 4rem;
+}
+/* line 874, ../sass/main.scss */
+.user-login .switch label span {
+  background: #bd4a25;
+  border-radius: 10px;
+  display: block;
+  height: 2rem;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 20px;
+}
+/* line 884, ../sass/main.scss */
+.user-login .switch label span:before {
+  background: rgba(79, 46, 220, 0.5);
+  border-radius: 50%;
+  content: "";
+  display: block;
+  margin: -18px;
+  opacity: 1;
+  height: 56px;
+  position: absolute;
+  pointer-events: none;
+  transform: scale(0);
+  width: 56px;
+}
+/* line 900, ../sass/main.scss */
+.user-login .close-log-in {
+  bottom: 6rem;
+  left: 7rem;
+  position: absolute;
+  z-index: 9;
+}
+/* line 906, ../sass/main.scss */
+.user-login .loader {
+  bottom: 6rem;
+  left: 0;
+  margin: 0 auto;
+  right: 0;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+}
+/* line 915, ../sass/main.scss */
+.user-login .log-out {
+  bottom: 6rem;
+  right: 6rem;
+  position: absolute;
+}
+
+/* end sign in widget */
+/* line 923, ../sass/main.scss */
+.canvasjs-chart-toolbar, .canvasjs-chart-credit {
+  display: none;
+}

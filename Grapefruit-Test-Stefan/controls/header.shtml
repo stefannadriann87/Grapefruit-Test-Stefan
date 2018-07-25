@@ -1,0 +1,126 @@
+<!--header -->
+<header>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <nav>
+                        <div class="row">
+                            <div class="col-xs-4 nav-left">
+                                <a href="#"><img src="resources/images/menu-ico.png"></a>
+                                <a class="text-uppercase" href="#">widgets</a>
+                            </div>
+                            <div class="col-xs-4 nav-center text-center">
+                                <a href="#"><img src="resources/images/logo.png"></a>
+                            </div>
+                            <div class="col-xs-4 nav-right text-right">
+                                <a href="#"><img src="resources/images/search-ico.png"></a>
+                                <a class="log-in" href="#"><img src="resources/images/avatar.jpg"></a>
+                                <a class="sign-up" href="#"><img src="resources/images/bookmark-ico.png"></a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+</header>
+<section class="mobile-widgets">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <a href="#">widgets</a>
+                </div>
+            </div>
+        </div>
+</section>
+<section class="sign-in">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 col-md-6 col-md-offset-3 step-box">
+                    <ul>
+                        <li class="active"><span></span>step 1</li>
+                        <li><span></span>step 2</li>
+                        <li><span></span>step 3</li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-md-4 col-md-offset-4 box">
+                    <h2>CREATE ACCOUNT</h2>
+                    <form action="" id="sign-in" name="registration">
+                        <div class="column">
+                            <label for="name">name</label>
+                             <input id="name" name="name" placeholder="Name" type="text">
+                              <span><img src="resources/images/name-ico.png"></span>
+                        </div>
+                        <div class="column">
+                            <label for="email">Email</label>
+                             <input id="email" name="email" placeholder="Email" type="email">
+                              <span><img src="resources/images/mail-ico.png"></span>
+                        </div>
+                        <div class="column">
+                            <label for="password">Password</label>
+                             <input id="password" name="password" placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;" type="password">
+                             <span><img src="resources/images/password-ico.png"></span>
+                        </div>
+                        <div class="column">
+                            <button type="submit">Continue</button>
+                        </div>
+                    </form><a href="#">Terms & Conditions</a>
+                </div>
+            </div>
+        </div>
+</section>
+<section class="user-login">
+        <ul class="top-user">
+            <li><img src="resources/images/upload-ico.png"></li>
+            <li><img src="resources/images/avatar.jpg"></li>
+            <li><img src="resources/images/synk-ico.png"></li>
+        </ul>
+        <form action="" id="log-in" name="user">
+            <div class="column">
+                <label for="fullName">name</label>
+                 <input id="fullName" name="fullName" placeholder="Full Name" type="text">
+                  <span><img src="resources/images/user-ico.png"></span>
+            </div>
+            <div class="column">
+                <label for="job">job</label>
+                 <input id="job" name="job" placeholder="Job" type="text">
+                  <span><img src="resources/images/name-ico.png"></span>
+            </div>
+            <div class="column">
+                <label for="userEmail">Email</label>
+                 <input id="userEmail" name="userEmail" placeholder="Email" type="useremail">
+                  <span><img src="resources/images/mail-ico.png"></span>
+            </div>
+            <div class="column">
+                <label for="userPassword">Password</label>
+                 <input id="userPassword" name="userPassword" placeholder="&#9679;&#9679;&#9679;&#9679;&#9679;" type="userpassword">
+                  <span><img src="resources/images/password-ico.png"></span>
+            </div>
+            <p class="text-uppercase text-left">EMAIL NOTIFICATIONS</p>
+            <div class="switch">
+                <p>Moday</p><input id="moday" type="checkbox">
+                 <label for="moday"><span></span></label>
+            </div>
+            <div class="switch">
+                <p>Tuesday</p><input id="tuesday" type="checkbox">
+                 <label for="tuesday"><span></span></label>
+            </div>
+            <div class="switch">
+                <p>Wednesday</p><input id="wednesday" type="checkbox">
+                 <label for="wednesday"><span></span></label>
+            </div>
+            <div class="switch">
+                <p>Thursday</p><input id="thursday" type="checkbox">
+                 <label for="thursday"><span></span></label>
+            </div>
+            <div class="switch inactive">
+                <p>Friday</p><input id="friday" type="checkbox">
+                 <label for="friday"><span></span></label>
+            </div>
+        </form>
+        <a class="close-log-in" href="#">
+            <img src="resources/images/next-ico.png">
+        </a>
+        <p class="loader">saving...</p>
+        <a class="log-out" href="#"><img src="resources/images/log-out-ico.png"></a>
+</section>
+<!--end  header -->

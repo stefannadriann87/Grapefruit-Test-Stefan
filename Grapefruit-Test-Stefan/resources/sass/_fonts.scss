@@ -1,0 +1,24 @@
+// Montserrat
+@include font-face('MontserratRegular', '../fonts/montserrat-regular-webfont');
+@include font-face('MontserratBold', '../fonts/montserrat-bold-webfont');
+ 
+
+// Font Awesome
+@include font-face('FontAwesome', '../fonts/font-awseme/fontawesome-webfont');
+
+
+$font-sizes: (10, 12, 13, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 36, 38, 48, 49, 65);
+
+@each $font-size in $font-sizes {
+  .font-#{ $font-size } {
+    font-size: #{ ($font-size / 10) + 'rem' };
+  }
+}
+
+@each $font-size in $font-sizes {
+  .font-#{ $font-size }--xs {
+    @include respondto(phone) {
+      font-size: #{ ($font-size / 10) + 'rem' };
+    }
+  }
+}
